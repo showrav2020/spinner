@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">spinnersymple</string>
+
+    <string-array name="country_name">
+        <item> Bangladesh </item>
+        <item> India </item>
+        <item> Mayanmar </item>
+        <item> Japan </item>
+        <item> Malayshia </item>
+        <item> Singapur </item>
+        <item> Viyetnam </item>
+        <item> Koria </item>
+        <item> Brazil </item>
+        <item> Argentina </item>
+        <item> Maldip </item>
+        <item> Arob </item>
+        <item> Kuyet </item>
+        <item> Jordan </item>
+        <item> Flipain </item>
+
+    </string-array>
+
+
+</resources>
